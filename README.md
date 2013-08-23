@@ -10,10 +10,10 @@ how to accomplish it.
 
 The summary is:
 
--- Get the BluetoothAdapter
--- Acquire a Bluetooth A2DP proxy from the adapter
--- Find the BluetoothDevice you wish to connect to from the adapter
--- Use reflection to invoke the private connect(BluetoothDevice) method
+* Get the BluetoothAdapter
+* Acquire a Bluetooth A2DP proxy from the adapter
+* Find the BluetoothDevice you wish to connect to from the adapter
+* Use reflection to invoke the private connect(BluetoothDevice) method
 
 
 Developed By
